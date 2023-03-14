@@ -20,7 +20,6 @@ También me gusta y me motivan los nuevos desafíos que se presentan porque me l
     HTML · CSS · Figma · JavaScript · React Redux · Material-ui · Formik · Yup · Node.js · Express · PostgreSQL · Sequelize · Scrum
 </p>
     <br>
-    <br>
  <div>
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
   Mail: nina.kirishima77@gmail.com
