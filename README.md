@@ -14,16 +14,16 @@
 
 <h3>Mis habilidades tecnicas:</h3>
 
-· HTML
-· CSS
-· JavaScript
-· React
-· Redux
-· Material-ui
-· Formik
-· Yup
-· Node.js
-· Express
-· PostgreSQL
-· Sequelize
-· Figma
+ HTML 
+ CSS
+ JavaScript
+ React
+ Redux
+ Material-ui
+ Formik
+ Yup
+ Node.js
+ Express
+ PostgreSQL
+ Sequelize
+ Figma
