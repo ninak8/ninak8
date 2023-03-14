@@ -1,4 +1,4 @@
-<div >
+<div display="flex" flex-direction="row" justify-content="center">
   <div align="start" >
     <h1>Hola! me nombre es Nadia 💁‍♀️</h1> 
     <p>
