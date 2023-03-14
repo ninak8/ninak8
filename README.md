@@ -5,7 +5,7 @@
   </p>
 
 <p>
-<!--   <hr/> -->
+  <hr/>
   
 ⭐Mis experiencias académicas: 
 
