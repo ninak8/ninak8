@@ -15,14 +15,16 @@
 </p>
 
 <h3>Mis habilidades tecnicas:</h3>
-<ul align="left">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Redux</li>
-  <li>Material-ui</li>
- </ul>
+<div align="left">
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Material-ui</li>
+   </ul>
+</div>
  <div align="right">
    <ul>
     <li>Formik</li>
