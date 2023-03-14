@@ -5,8 +5,10 @@
   </p>
 
 <p>
-  <hr/>
+<!--   <hr/> -->
+  
 ⭐Mis experiencias académicas: 
+
 
   Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.
   
