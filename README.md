@@ -13,7 +13,8 @@
 </p>
 
 <h3>Mis habilidades tecnicas:</h3>
-
+<ul>
+<li>
  HTML 
  CSS
  JavaScript
@@ -27,3 +28,5 @@
  PostgreSQL
  Sequelize
  Figma
+ </li>
+ </ul>
