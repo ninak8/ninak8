@@ -7,7 +7,7 @@
 
 <h3>Mis experiencias académicas:</h3>
 <p>
-  ⭐Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.
+  ⭐Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.<br>
   link al repositorio: <a href="https://github.com/ninak8/PI-Dogs-main">Proyecto Individual</a>
 
   ⭐Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó en una E-commerce para venta de comida rápida llamada Space Food, que cuenta con un Front end para el cliente y otro para el administrador, con una base de datos local.
@@ -17,6 +17,7 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Figma</li>
     <li>JavaScript</li>
     <li>React</li>
     <li>Redux</li>
@@ -27,7 +28,6 @@
     <li>Express</li>
     <li>PostgreSQL</li>
     <li>Sequelize</li>
-    <li>Figma</li>
   </ul>
  
  <div align="center">
