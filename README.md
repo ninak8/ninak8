@@ -17,7 +17,7 @@ También me gusta y me motivan los nuevos desafíos que se presentan porque me l
 
 <h3>Mis habilidades tecnicas:</h3>
 <p>
-    HTML · CSS · Figma · JavaScript · React Redux · Material-ui · Formik · Yup · Node.js · Express · PostgreSQL · Sequelize
+    HTML · CSS · Figma · JavaScript · React Redux · Material-ui · Formik · Yup · Node.js · Express · PostgreSQL · Sequelize · Scrum
 </p>
     <br>
     <br>
