@@ -1,10 +1,11 @@
 <img src ="https://media1.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=ecf05e47s3vvke6cug703ovg2zj2aafpbqkprsfdaw4sqzxj&rid=giphy.gif&ct=g" width=200 align='right'/>
 
-<h1>Hola! me nombre es Nadia 💁‍♀️</h1> 
+<h1>Hola! mi nombre es Nadia 💁‍♀️</h1> 
   <p margin='2px'>Soy desarrolladora web Full Stack con orientación al Front end, es lo que me gusta y apasiona, también me motivan los nuevos desafíos que se presentan porque me llevan a mejorar en lo que respecta al desarrollo y la calidad del código✨
   </p>
 
 <p>
+  <hr/>
 ⭐Mis experiencias académicas: 
 
   Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.
