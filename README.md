@@ -15,13 +15,15 @@
 </p>
 
 <h3>Mis habilidades tecnicas:</h3>
-<ul>
+<ul align="left">
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <li>React</li>
   <li>Redux</li>
   <li>Material-ui</li>
+ </ul>
+ <ul align="right">
   <li>Formik</li>
   <li>Yup</li>
   <li>Node.js</li>
@@ -29,7 +31,7 @@
   <li>PostgreSQL</li>
   <li>Sequelize</li>
   <li>Figma</li>
- </ul>
+</ul>
  
  <div align="center">
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
