@@ -11,7 +11,7 @@ También me gusta y me motivan los nuevos desafíos que se presentan porque me l
   ⭐Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.<br>
   link al repositorio: <a href="https://github.com/ninak8/PI-Dogs-main">Proyecto Individual</a>
 
-  ⭐Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó en una E-commerce para venta de comida rápida llamada Space Food, que cuenta con un Front end para el cliente y otro para el administrador, con una base de datos local. <br>
+  ⭐Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó En una aplicación Full Stack, para el comercio electronico de Alimentos, en el formato multitienda, la cual cuenta con autenticacion de terceros basada en google, envio de notificaciones mediante correo electronico, y almacenamiento de multimedia en la nube entre otras funciones usando tecnologias tales como, Javascript, React , Node, Redux, PostgresSQL  <br>
   link de la aplicación: <a href="https://spacefood.netlify.app/">SpaceFood</a>
 </p>
 
