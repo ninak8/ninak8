@@ -31,6 +31,6 @@
  
  <div align="center">
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
-  Mail: nina.kirishima77@gmail.com
+  Mail: nina.kirishima@gmail.com
 </div>
  
