@@ -23,15 +23,18 @@
   <li>Redux</li>
   <li>Material-ui</li>
  </ul>
- <ul align="right">
-  <li>Formik</li>
-  <li>Yup</li>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>PostgreSQL</li>
-  <li>Sequelize</li>
-  <li>Figma</li>
-</ul>
+ <div align="right">
+   <ul>
+    <li>Formik</li>
+    <li>Yup</li>
+    <li>Node.js</li>
+    <li>Express</li>
+    <li>PostgreSQL</li>
+    <li>Sequelize</li>
+    <li>Figma</li>
+  </ul>
+</div>
+
  
  <div align="center">
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
