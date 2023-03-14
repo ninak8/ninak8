@@ -13,21 +13,7 @@
 </p>
 
 <h3>Mis habilidades tecnicas:</h3>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Figma</li>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>Redux</li>
-    <li>Material-ui</li>
-    <li>Formik</li>
-    <li>Yup</li>
-    <li>Node.js</li>
-    <li>Express</li>
-    <li>PostgreSQL</li>
-    <li>Sequelize</li>
-  </ul>
+    HTML · CSS · Figma · JavaScript · React Redux · Material-ui · Formik · Yup · Node.js · Express · PostgreSQL · Sequelize
  
  <div align="center">
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
