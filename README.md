@@ -12,7 +12,19 @@
   ⭐Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó en una E-commerce para venta de comida rápida llamada Space Food, que cuenta con un Front end para el cliente y otro para el administrador, con una base de datos local.
 </p>
 
+<h3>Mis habilidades tecnicas:</h3>
 <p>
-  
-Full Stack Developer - JavaScript - HTML - CSS - React - Redux - Node.js - Express - PostgreSQL - Sequelize
+· HTML
+· CSS
+· JavaScript
+· React
+· Redux
+· Material ui
+· Formik
+· Yup
+· Node.js
+· Express
+· PostgreSQL
+· Sequelize
+· Figma
 </p>
