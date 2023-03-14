@@ -5,11 +5,11 @@
   </p>
 
  <p>
-⭐Mis experiencias académicas: 
+<h4>Mis experiencias académicas:</h4>
 
-  Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.
+⭐Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.
   
-  Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó en una E-commerce para venta de comida rápida llamada Space Food, que cuenta con un Front end para el cliente y otro para el administrador, con una base de datos local.
+⭐Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó en una E-commerce para venta de comida rápida llamada Space Food, que cuenta con un Front end para el cliente y otro para el administrador, con una base de datos local.
 </p>
 
 <p>
