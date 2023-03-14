@@ -14,19 +14,17 @@
 
 <h3>Mis habilidades tecnicas:</h3>
 <ul>
-<li>
- HTML 
- CSS
- JavaScript
- React
- Redux
- Material-ui
- Formik
- Yup
- Node.js
- Express
- PostgreSQL
- Sequelize
- Figma
- </li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Material-ui</li>
+  <li>Formik</li>
+  <li>Yup</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>Figma</li>
  </ul>
