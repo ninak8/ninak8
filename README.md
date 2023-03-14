@@ -8,14 +8,12 @@
 <h3>Mis experiencias académicas:</h3>
 <p>
   ⭐Diseñar y desarrollar mi Proyecto Individual que es una App de perros que te permite ordenar y filtrar los datos traídos de una API y de una base de datos local,       también permite crear nuevos perros y mostrar en detalle a los mismos.
-  
   link al repositorio: <a href="https://github.com/ninak8/PI-Dogs-main">Proyecto Individual</a>
 
   ⭐Otra de mis mas grandes experiencias fue en el Proyecto Final, que fue en grupo. El proyecto se basó en una E-commerce para venta de comida rápida llamada Space Food, que cuenta con un Front end para el cliente y otro para el administrador, con una base de datos local.
 </p>
 
 <h3>Mis habilidades tecnicas:</h3>
-<div align="left">
   <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -23,10 +21,6 @@
     <li>React</li>
     <li>Redux</li>
     <li>Material-ui</li>
-   </ul>
-</div>
- <div align="right" color="red">
-   <ul>
     <li>Formik</li>
     <li>Yup</li>
     <li>Node.js</li>
@@ -35,8 +29,6 @@
     <li>Sequelize</li>
     <li>Figma</li>
   </ul>
-</div>
-
  
  <div align="center">
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
