@@ -25,7 +25,7 @@
     <li>Material-ui</li>
    </ul>
 </div>
- <div align="right">
+ <div align="right" color="red">
    <ul>
     <li>Formik</li>
     <li>Yup</li>
