@@ -20,7 +20,7 @@ También me gusta y me motivan los nuevos desafíos que se presentan porque me l
 </p>
     <br>
     <br>
- <div align="center">
+ <div>
   Linkedin: <a href="https://www.linkedin.com/in/nadia-carrizo-75b131250/">Nadia Carrizo</a> <br>
   Mail: nina.kirishima77@gmail.com
 </div>
